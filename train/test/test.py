@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("test3.png")
+img = cv2.imread("test1.png")
 
 def increaseBrightness(img, value):
     global v
