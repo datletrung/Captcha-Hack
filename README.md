@@ -5,7 +5,7 @@ Solve China EMS captcha with OpenCV (Haar Cascade)
 ## Getting Started
 
 A just-for-fun project!  
-Show Security Gap in China EMS captcha  
+Showing Security Gap in China EMS captcha  
 
 ### Prerequisites
 
