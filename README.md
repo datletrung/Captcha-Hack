@@ -21,14 +21,7 @@ git clone https://github.com/datletrung/captchaHack.git
 cd captchaHack
 ```
 
-### Running the code
-
-Watch video here:  
-
-```
-https://youtu.be/xZscyvbSS_M
-```
 
 ## Authors  
 
-* **Tin Le** - **Lê Trung Tất Đạt** - (https://github.com/datletrung)  
+* **Brian Le** - **Lê Trung Tất Đạt** - (https://github.com/datletrung)  
