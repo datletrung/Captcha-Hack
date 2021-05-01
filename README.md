@@ -17,7 +17,7 @@ OpenCV, Numpy, PyAutoGUI
 Download the repository:  
 
 ```
-git clone https://github.com/datletrung/captchaHack.git
+git clone https://github.com/datletrung/Captcha-Hack.git
 cd captchaHack
 ```
 
