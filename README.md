@@ -18,9 +18,9 @@ Download the repository:
 
 ```
 git clone https://github.com/datletrung/Captcha-Hack.git
-cd captchaHack
 ```
 
+Run run.py and quickly switch to your captcha
 
 ## Authors  
 
