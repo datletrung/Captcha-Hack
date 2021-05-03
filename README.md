@@ -17,7 +17,7 @@ OpenCV, Numpy, PyAutoGUI
 Download the repository:  
 
 ```
-git clone https://github.com/datletrung/Captcha-Hack.git
+git clone https://github.com/datletrung/Captcha-Solver.git
 ```
 
 Run run.py and quickly switch to your captcha
